@@ -28,7 +28,7 @@ public class StopWatch {
             return elapsed;
         }
 
-        public static void main(String[] args) throws Exception
+        public static void main(String[] args)
         {
             StopWatch sw=new StopWatch();
             Scanner sc = new Scanner(System.in);
